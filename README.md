@@ -44,7 +44,7 @@ This seminar is organized around the different "roles" students play each week. 
 #### Non-presenter assignments
 
 If you aren't in the presenting group during a given class period, please prepare the following and **send it via email**:
-  - 1. Three questions about either paper - could be something you're confused about or something you'd like to hear discussed more.
+  - 1. Three questions about either paper - could be something you're confused about or something you'd like to hear discussed more. Also, try to form a hypothesis to answer your question and write it down. 
   - 2. (not this semester) A new title for either one of the papers and/or a new name for an algorithm proposed in either paper
   - 3. (not this semester) One idea for a missing experiment.
 
